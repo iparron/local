@@ -81,6 +81,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>translate.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="translate.fr.resx" />
     <EmbeddedResource Include="translate.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>translate.Designer.cs</LastGenOutput>
